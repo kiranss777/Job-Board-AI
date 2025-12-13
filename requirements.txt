@@ -37,7 +37,7 @@ snowflake-connector-python==3.9.0
 
 # Data / Visualization
 pandas==2.2.3
-numpy==1.25.3
+numpy==1.25.2
 seaborn==0.13.2
 matplotlib==3.8.4
 
