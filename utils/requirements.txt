@@ -1,0 +1,40 @@
+# Streamlit
+streamlit==1.29.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Pinecone
+pinecone-client==3.0.0
+
+# PDF processing
+pypdf==3.17.4
+
+# Embeddings - Sentence Transformers
+sentence-transformers==2.2.2
+torch==2.1.0
+transformers==4.35.0
+
+# Text processing
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-text-splitters==0.0.1
+
+# LLM APIs
+openai>=2.11.0
+google-generativeai==0.3.2
+
+# Utilities
+tiktoken==0.5.2
+
+# FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Snowflake
+snowflake-sqlalchemy==1.8.2
+snowflake-connector-python==3.9.0
+
+# Data Visualization
+seaborn==0.13.2
+matplotlib==3.8.4
