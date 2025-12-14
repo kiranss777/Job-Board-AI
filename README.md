@@ -13,6 +13,9 @@
 🚀 **Live Demo:**
 [https://job-board-ai-jwgzdkxcadeqqsqdct9wsn.streamlit.app/](https://job-board-ai-jwgzdkxcadeqqsqdct9wsn.streamlit.app/)
 
+🚀 **Walkthrough Video:**
+[https://youtu.be/hH0rN9RoZSk](https://youtu.be/hH0rN9RoZSk)
+
 ---
 
 ## 🌟 What is AtlasAI?
