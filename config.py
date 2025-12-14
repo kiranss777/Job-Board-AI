@@ -34,8 +34,8 @@ class Config:
     
     LLM_MODELS = {
     "GPT-4o": "gpt-4o-mini",
-    "Gemini Pro": "gemini-2.0-flash",
-    "Gemini Flash": "gemini-2.0-flash",
+    "Gemini Pro": "gemini-2.5-flash",
+    "Gemini Flash": "gemini-2.5-flash",
     "DeepSeek": "deepseek-chat",
     }
 
